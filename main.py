@@ -1,2 +1,2 @@
-print(Salut! Acesta este proiectul meu Git.")
+print("Versiunea alternativa.")
 print("Am adaugat o functionalitate noua.")
